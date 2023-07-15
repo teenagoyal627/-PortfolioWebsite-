@@ -3,7 +3,7 @@ const ProjectCardData=[
         image:"Image/ExpenseCalculator.png",
         title:"Expenses Tracker",
         text:"You should track your expenses is to identity and eliminate wasteful spending habits in your financial life.",
-        view:"",
+        view:"https://expenses-87772.web.app/",
         source:"https://github.com/teenagoyal627/ExpensesReactProject.git"
         
     },
@@ -11,7 +11,7 @@ const ProjectCardData=[
         image:"Image/FoodOrderApp.png",
         title:"Food Ordering app",
         text:"Customer choosing the restaurant of their choice, scanning the menu items,choosing an item, and finally choosing for pick-up or delivery.",
-        view:"",
+        view:"https://food-order-app-60eee.web.app/",
         source:"https://github.com/teenagoyal627/FoodOrderApp.git"
     },
     {

@@ -9,9 +9,10 @@ const AllProjectProps = (props) => {
             <div className="project-des">
                 <p>{props.text}</p>
                 <div className="pro-btns">
-                    <a href={props.view} className='btn'>View</a>
-                    <a href={props.source} className='btn'>Source</a>
-
+                    <a href ={props.view} target='_blank' rel='noreferrer' className='btn'>View</a>
+                    {/* {console.log("button is clicked")} */}
+                    <a href={props.source} target='_blank' rel='noreferrer' className='btn'>Source</a>
+                      {/* {console.log("source is clikc")} */}
                 </div>
             </div>
         </div>
